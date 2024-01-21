@@ -5,7 +5,7 @@ for(var i = 1 ; i <= a ; i++){
         count++
     }
 }
-if(count == 2){
+if(count == 1){
     console.log("PRIME")
 }
 else{
